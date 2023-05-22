@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: lightblue ;
+padding: 20px;
+margin: 15px;
+border-radius: 15px;
+}
+header a{
+text-decoration:none;
+background-color:white;
+padding: 15px;
+border-radius: 15px;
+margin: 15px;
+}
+h1{
+    width: 100%;
+    text-align:center;
+    background-color: rgb(117, 235, 180);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(178, 240, 211);
+    margin: 0%; padding: 1px;
+    }
+}    footer p{
+        background-color: pink;
+}
+nav a{
+    color:rgb(0, 8, 255) ;
+    text-decoration:none ;
+    padding: 10px;
+margin: 15px;
+font-size: 20px;
+}
+.boom{
+    background-color:  aqua;
+}
